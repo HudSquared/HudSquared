@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @HudSquared
-- 👀 I’m interested in - computers. programming
-- 🌱 I’m currently learning - python
-- 📫 How to reach me - hud#0101
+hi im hud.
+i code for fun.
+not very good at it but i really dont give a fuck abt what you think
 
 
